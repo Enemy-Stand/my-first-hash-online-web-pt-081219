@@ -1,6 +1,5 @@
 def my_hash
-  your_hash = {"my_name" => "Joseph"
-  
+  your_hash = {"my_first_language" => "Python", "my_second_language" => "Ruby"}
 end
 
 
